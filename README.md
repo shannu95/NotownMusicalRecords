@@ -25,5 +25,3 @@ Highlights
 > To activate the insert, update and delete buttons, the password is "cs430@SIUC".
 
 Author: Shanmukha Agastyaraju
-Dawg Tag : 854024207
-Date: 28th November, 2016

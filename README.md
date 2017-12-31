@@ -5,9 +5,8 @@ Steps to install
 ----------------
 
 1. Extract the Database_BigProject.zip file.
-2. Open the folder "src". It contains all the .java files.
-3. To make the application work, first run the LOGINPAGE_GUI.java file.
-4. Relations(tables) have been created as per the schema given in the PDF.
+2. To make the application work, first run the LOGINPAGE_GUI.java file.
+3. Relations(tables) have been created as per the schema given in the PDF.
 
 Running the application on Windows / Linux / Mac
 ------------------------------------------------
